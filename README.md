@@ -4,7 +4,8 @@ Personal Homepage
 
 <div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">王馨瑶</div>
 <img src='https://github.com/user-attachments/assets/1e1f8e27-0ebc-4707-b0d3-1c8ba9ebe745' alt="Xinyao Wang" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
-Xinyao Wang (王馨瑶), Tongji University (同济大学), coadvised with Yue Song（和宋越老师一起指导）
+Xinyao Wang (王馨瑶), Tongji University (同济大学), coadvised with Yue Song（和宋越老师一起指导）</div>
+✉ wxy366978373@163.com</div>
 
 Xinyao Wang is a direct PhD student (class of 2025) at the  Shanghai Research Institute for Intelligent Autonomous Systems (National Key Laboratory of Autonomous Intelligent Unmanned Systems), Tongji University. 
  She received her undergraduate education in Engineering Management at Dalian University of Technology. Her current research focuses on operations research, with primary studies in intelligent recommendation systems, Cost Per Sale, and path planning technologies.
